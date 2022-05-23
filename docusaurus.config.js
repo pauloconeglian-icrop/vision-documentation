@@ -8,15 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'iCrop Vision',
   tagline: 'Documentação',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://pauloconeglian-icrop.github.io',
+  baseUrl: '/vision-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'icrop', // Usually your GitHub org/user name.
+  organizationName: 'pauloconeglian-icrop', // Usually your GitHub org/user name.
   projectName: 'vision-documentation', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
