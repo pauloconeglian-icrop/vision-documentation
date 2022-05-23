@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvision_documentation=self.webpackChunkvision_documentation||[]).push([[749],{8478:function(o){o.exports=JSON.parse('{"label":"hello","permalink":"/vision-documentation/blog/tags/hello","allTagsPath":"/vision-documentation/blog/tags","count":2}')}}]);

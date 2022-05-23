@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvision_documentation=self.webpackChunkvision_documentation||[]).push([[5371],{7008:function(o){o.exports=JSON.parse('{"label":"facebook","permalink":"/vision-documentation/blog/tags/facebook","allTagsPath":"/vision-documentation/blog/tags","count":1}')}}]);

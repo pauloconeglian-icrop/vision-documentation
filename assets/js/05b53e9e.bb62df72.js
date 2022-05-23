@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvision_documentation=self.webpackChunkvision_documentation||[]).push([[9267],{7367:function(o){o.exports=JSON.parse('{"permalink":"/vision-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
